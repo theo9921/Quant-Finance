@@ -1,3 +1,9 @@
+'''
+Library to simulate different SDEs
+@Author: T.T. Ouzounellis Kavlakonis
+@Date: 29Dec24
+'''
+
 import numpy as np
 from scipy.optimize import minimize
 from scipy.stats import norm, ks_2samp
